@@ -1,0 +1,1 @@
+DNSitter watches your new domain's DNS propagate for $0.10 a check, texting 'it's live' the second it resolves, so lazy agents can nap instead of refreshing dig for six hours.
